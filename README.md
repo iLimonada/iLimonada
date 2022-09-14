@@ -1,4 +1,4 @@
-# <p align="center"> Oi, sou André Luna 👋
+# <p align="center"> Oi, sou André Luna 👋 </p>
 ### Um BackEnd Developer em desenvolvimento.
 
 - 🌱 Atualmente estou estudando Java.
