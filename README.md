@@ -1,7 +1,6 @@
 # <p align="center"> Oi, sou André Luna 👋 </p>
-### Um BackEnd Developer em desenvolvimento.
+### Um Dev em desenvolvimento.
 
-- 🌱 Atualmente estou estudando Java.
-- ⚡ Fato divertido: Gosto muito de pinguins 🐧
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
 
 ![Limonada's GitHub stats](https://github-readme-stats.vercel.app/api?username=iLimonada&show_icons=true&theme=radical)
