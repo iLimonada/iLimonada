@@ -1,20 +1,62 @@
-## <p align="left"> Oi, sou André Luna</p>
-### Um Dev em desenvolvimento.
+# Olá, sou o André Luna 👋
 
-Graduado em Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara.
+<img src="COLOCAR_URL_DA_SUA_FOTO" align="right" width="200" style="border-radius: 50%;">
 
-## Estudando
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Um **Dev em desenvolvimento**, apaixonado por tecnologia e sempre em busca de novos aprendizados para criar soluções eficientes e inovadoras.
 
-## Tenho Interesse
-Microsoft Power Automate, Power Bi
+---
 
+## 👨‍🎓 Formação Acadêmica
 
+*   🏆 Graduado em Análise e Desenvolvimento de Sistemas na **Fatec Rubens Lara**.
 
+---
+
+## 📚 Atualmente Estudando
+
+Aqui estão as tecnologias e ferramentas com as quais tenho trabalhado e estudado:
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+</p>
+
+---
+
+## 💡 Tenho Interesse
+
+Áreas e tecnologias que pretendo explorar mais profundamente:
+
+*   🤖 Microsoft Power Automate
+*   📊 Microsoft Power Bi
+
+---
+
+## 📈 Estatísticas do GitHub
+
+Você pode adicionar estatísticas dinâmicas aqui para mostrar suas atividades de código (exige configuração):
+
+```markdown
+![Estatísticas do GitHub do iLimonada](https://github-readme-stats.vercel.app/api?username=iLimonada&show_icons=true&theme=tokyonight)
