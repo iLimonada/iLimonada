@@ -51,11 +51,3 @@ Aqui estão as tecnologias e ferramentas com as quais tenho trabalhado e estudad
 *   🤖 Microsoft Power Automate
 *   📊 Microsoft Power Bi
 
----
-
-## 📈 Estatísticas do GitHub
-
-Você pode adicionar estatísticas dinâmicas aqui para mostrar suas atividades de código (exige configuração):
-
-```markdown
-![Estatísticas do GitHub do iLimonada](https://github-readme-stats.vercel.app/api?username=iLimonada&show_icons=true&theme=tokyonight)
