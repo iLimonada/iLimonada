@@ -1,7 +1,5 @@
 # Olá, sou o André Luna 👋
 
-<img src="COLOCAR_URL_DA_SUA_FOTO" align="right" width="200" style="border-radius: 50%;">
-
 Um **Dev em desenvolvimento**, apaixonado por tecnologia e sempre em busca de novos aprendizados para criar soluções eficientes e inovadoras.
 
 ---
