@@ -9,6 +9,7 @@ Um **Dev em desenvolvimento**, apaixonado por tecnologia e sempre em busca de no
 ## 👨‍🎓 Formação Acadêmica
 
 *   🏆 Graduado em Análise e Desenvolvimento de Sistemas na **Fatec Rubens Lara**.
+*   Cursando Engenharia de Software na **Gran Faculdade**
 
 ---
 
